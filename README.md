@@ -7,7 +7,6 @@ Here is a brief list of the fundamental topics applied in this project:
     * Nested Selectors
     * Populate Selectors from HTTP Requests
     * Chaining RXJS Operators
-    * Explain why people say TypeScript is not entirely "Type Safe"
 
 ## How to Set Up the Project Locally
 
